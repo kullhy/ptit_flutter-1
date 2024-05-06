@@ -1,7 +1,16 @@
-## Bài tập lớn Android 
-### Quản lý sinh viên 
-### Ảnh demo(minh họa)
-#### ![image](https://github.com/piuconal/ptit_flutter/assets/85973353/076d0d0e-9d5f-48a9-af7b-86e2b588489a)
-#### ![image](https://github.com/piuconal/ptit_flutter/assets/85973353/9b5cf534-38ac-4847-911a-54b0015eff87)
+# ptit_flutter
 
- 
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
